@@ -1,7 +1,6 @@
 # Customer Lifetime Value Analysis 
 
-Customer Lifetime Value (CLV) stands at the forefront of e-commerce analytics, serving as a crucial metric to gauge the long-term value of customer relationships. Recent scrutiny over Shopify's simplistic CLV formula has prompted a shift towards cohort analysis for more reliable insights. This adjustment responds to two key concerns raised by the manager: the need to include all website users, not just purchasers, and the preference for a 12-week cohort analysis to capture customer engagement dynamics more effectively. The ongoing refinement of CLV calculations underscores its indispensable role in shaping marketing strategies and business planning by providing a nuanced understanding of customer value over time.
-
+**Customer Lifetime Value (CLV)** stands at the forefront of e-commerce analytics, serving as a crucial metric to gauge the long-term value of customer relationships. Recent scrutiny over Shopify's simplistic CLV formula has prompted a shift towards cohort analysis for more reliable insights. This adjustment responds to two key concerns raised by the manager: the need to include **all website users**, not just purchasers, and the preference for a **12-week cohort analysis** to capture customer engagement dynamics more effectively. The ongoing refinement of CLV calculations underscores its indispensable role in shaping marketing strategies and business planning by providing a nuanced understanding of customer value over time.
 
 # Main Analysis
 
@@ -73,4 +72,10 @@ Next, the focus is on the **future and trying to predict the missing data**. In 
 
 2️⃣ Introduce targeted promotions to increase future spending, especially during lower-activity periods.
 
-
+# Key Insights
+- We can see that users tend to spend more during the first week after registration, but their average spending decreases over time.
+- Cohorts from 2020-11-01 to 2020-12-13 show consistently higher spending and cumulative growth, suggesting a strong seasonal effect during this period.
+- In contrast, later cohorts—especially in December and January—demonstrate weaker performance, possibly due to reduced post-holiday spending.
+- Interestingly, the January 17 cohort performed better than the surrounding weeks, which may indicate a successful campaign or an external factor.
+- Our future predictions show a similar trend of early engagement followed by a drop in purchases.
+- With well-timed and targeted marketing efforts, we can smooth out these inconsistencies and encourage more sustained user spending.
